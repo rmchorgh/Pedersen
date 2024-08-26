@@ -47,6 +47,7 @@
 		7986E5502C7D39DF007030FB /* PedersenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PedersenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7986E5542C7D39DF007030FB /* PedersenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedersenUITests.swift; sourceTree = "<group>"; };
 		7986E5562C7D39DF007030FB /* PedersenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedersenUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7986E5632C7D3C77007030FB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 				7986E5492C7D39DF007030FB /* PedersenTests */,
 				7986E5532C7D39DF007030FB /* PedersenUITests */,
 				7986E5342C7D39DD007030FB /* Products */,
+				7986E5632C7D3C77007030FB /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
